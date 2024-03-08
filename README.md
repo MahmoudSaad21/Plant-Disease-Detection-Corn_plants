@@ -1,5 +1,4 @@
 # Plant-Disease-Detection-Corn_plants
-Certainly! Here's the updated README.md file with the information about using only the corn images due to resource constraints:
 
 ```
 # Plant Disease Detection using VGG16 with Spatial Attention
@@ -13,7 +12,7 @@ To use this code, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your_username/your_repository.git
+git clone https://github.com/MahmoudSaad21/Plant-Disease-Detection-Corn_plants.git
 ```
 
 2. Install the required dependencies:
@@ -26,7 +25,7 @@ pip install -r requirements.txt
 
 4. Upload the `kaggle.json` file to your Google Colab environment (if running on Colab) to access the dataset directly from Kaggle.
 
-5. Run the provided notebook `Copy_of_Plant_Disease_Detection_(1).ipynb` to train the model.
+5. Run the provided notebook `Plant_Disease_Detection_(Corn).ipynb` to train the model.
 
 6. After training, the model weights will be saved as `VGG_Attention_PV.h5`.
 
