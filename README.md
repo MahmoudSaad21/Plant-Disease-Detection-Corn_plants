@@ -1,6 +1,5 @@
 # Plant-Disease-Detection-Corn_plants
 
-```
 # Plant Disease Detection using VGG16 with Spatial Attention
 
 This repository contains code for training a deep learning model for plant disease detection using the VGG16 architecture with spatial attention mechanism. The dataset used for training is a subset of the PlantVillage dataset, consisting of images of corn leaves, both diseased and healthy.
